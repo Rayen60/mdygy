@@ -17,10 +17,10 @@ Trace:
   Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/HanzzV.3/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
 
 npm manifest: 
-  {
-    "name": "chitanda-md",
+
+    "name": "rayen-bot",
     "version": "1.0.0",
-    "description": "No Description",
+    "description": "🅡🅐🅨🅔🅝",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -37,7 +37,7 @@ npm manifest:
       "bot-md",
       "multi-device"
     ],
-    "author": "Xeon",
+    "author": "RAYEN",
     "license": "MIT",
     "dependencies": {
       "@adiwajshing/baileys": "^4.0.1",
@@ -82,12 +82,12 @@ npm manifest:
     "devDependencies": {},
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/KiZakiXD/Chitanda-Public.git"
+      "url": "git+https://github.com/Rayen60/mdygy"
     },
     "bugs": {
-      "url": "https://github.com/KiZakiXD/Chitanda-Public/issues"
+      "url": "https://github.com/Rayen60/mdygy"
     },
-    "homepage": "https://github.com/KiZakiXD/Chitanda-Public#readme"
+    "homepage": "https://github.com/Rayen60/mdygy"
   }
 
 yarn manifest: 
