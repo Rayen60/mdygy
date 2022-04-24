@@ -1,5 +1,5 @@
 {
-  "name": "chitanda-md",
+  "name": "rayen-bot",
   "version": "1.0.0",
   "description": "No Description",
   "main": "index.js",
@@ -63,10 +63,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KiZakiXD/Chitanda-Public.git"
+    "url": "git+https://github.com/Rayen60/mdygy"
   },
   "bugs": {
-    "url": "https://github.com/KiZakiXD/Chitanda-Public/issues"
+    "url": "https://github.com/Rayen60/mdygy/issues"
   },
-  "homepage": "https://github.com/KiZakiXD/Chitanda-Public#readme"
+  "homepage": "https://github.com/Rayen60/mdygy#readme"
 }
